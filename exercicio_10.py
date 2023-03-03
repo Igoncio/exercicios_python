@@ -1,9 +1,6 @@
 #As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver contrataram para desenvolver o programa que calculará os reajustes.
 #Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
 
-from builtins import float, input, print
-
-
 print ("----------Reajuste de salario----------\n")
 salario = float(input("Digite o salário do colaborador:"))
 
